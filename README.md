@@ -6,9 +6,7 @@
 - How to reach me: [My Instagram](https://www.instagram.com/mehulenc).
 - Fun fact: I like polar bears!
 
-![Mehul's GitHub stats](https://github-readme-stats.vercel.app/api?username=sociallyencrypted&hide=stars&count_private=true&show_icons=true&theme=gotham)
-![Mehul's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sociallyencrypted&theme=gotham&layout=compact)
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2889537" style='border:none;'></iframe>
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/mehulenc.png)
 
 <!-- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) -->
 <!-- ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) -->
