@@ -1,13 +1,14 @@
-## ✨ Hi, I'm Mehul!
+## Hi, I'm Mehul!
 
-- 🌱 I’m currently working at the Network Security Lab at IIIT Delhi.
-- 🏫 I'm a junior at IIIT Delhi.
-- 💬 Ask me about Networks, Infosec, OSINT, Forensics, and Web Exploitation.
-- 📫 How to reach me: [My Instagram](https://www.instagram.com/sociallyencrypted).
-- 🐻‍❄ Fun fact: I like polar bears!
+- I’m currently working at Goldman Sachs.
+- I graduated from IIIT Delhi with a Bachelors in CSE with Honors.
+- Ask me about Networks, Infosec, OSINT, Forensics, and Web Exploitation.
+- How to reach me: [My Instagram](https://www.instagram.com/mehulenc).
+- Fun fact: I like polar bears!
 
 ![Mehul's GitHub stats](https://github-readme-stats.vercel.app/api?username=sociallyencrypted&hide=stars&count_private=true&show_icons=true&theme=gotham)
 ![Mehul's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sociallyencrypted&theme=gotham&layout=compact)
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2889537" style='border:none;'></iframe>
 
 <!-- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) -->
 <!-- ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) -->
