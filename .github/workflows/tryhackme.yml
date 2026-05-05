@@ -1,0 +1,16 @@
+name: TryHackMe Badge Workflow
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+jobs:
+  tryhackme-badge-update:
+    name: Update TryHackMe Badge
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: p4p1/tryhackme-badge-workflow@main
+        with:
+          username: "mehulenc"
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
