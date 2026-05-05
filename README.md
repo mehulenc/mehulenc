@@ -2,11 +2,11 @@
 
 - I’m currently working at Goldman Sachs.
 - I graduated from IIIT Delhi with a Bachelors in CSE with Honors.
-- Ask me about Networks, Infosec, OSINT, Forensics, and Web Exploitation.
+- Ask me about Networks, Cybersecurity, Kubernetes and Asset Management.
 - How to reach me: [My Instagram](https://www.instagram.com/mehulenc).
 - Fun fact: I like polar bears!
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/mehulenc.png)
+![TryHackMe Badge](https://raw.githubusercontent.com/mehulenc/mehulenc/master/assets/thm_propic.png)
 
 <!-- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) -->
 <!-- ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) -->
